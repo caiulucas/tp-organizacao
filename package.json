@@ -1,0 +1,32 @@
+{
+  "name": "tp-organizacao",
+  "version": "1.0.0",
+  "description": "Trabalho prático de Organização de Computadores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiulucas/tp-organizacao.git"
+  },
+  "keywords": [
+    "CPU",
+    "Organização",
+    "Computadores"
+  ],
+  "authors": [
+    "Caio Lucas",
+    "Vinícius Nunes",
+    "Thales"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiulucas/tp-organizacao/issues"
+  },
+  "homepage": "https://github.com/caiulucas/tp-organizacao#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.15",
+    "typescript": "^4.9.4"
+  }
+}
